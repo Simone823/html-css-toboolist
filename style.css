@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 body{
@@ -11,7 +11,16 @@ body{
 
 hr{
     margin-top: 12px;
-    border-color: lightgrey
+    border-color: lightgrey;
+}
+
+section{
+    margin-top: 35px;
+    margin-left: 40px;
+}
+
+section p{
+    margin-top: 10px;
 }
 /* ------------------------- */
 
@@ -54,6 +63,7 @@ header h1{
     height: 40px;
     width: 100px;
     border-radius: 5px;
+    font-size: 16px;
 }
 
 .blue{
@@ -67,3 +77,74 @@ header h1{
     border: 1px solid lightgrey;
     color: lightgrey;
 }
+
+#editorial{
+    background-color: #1e90ff;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#editorial{
+    background-color: #1e90ff;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#q1-goals{
+    background-color: #9932cc;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#recruiting{
+    background-color: #3cb371;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#mobile{
+    background-color: #ffa500;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#website{
+    background-color: #dc143c;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
+#sales{
+    background-color: #bdb76b;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 14px;
+    border: none;
+}
+
