@@ -22,6 +22,11 @@ section{
 section p{
     margin-top: 10px;
 }
+
+main{
+    display: inline-block;
+    width: 100%;
+}
 /* ------------------------- */
 
 header{
@@ -40,13 +45,13 @@ header img{
 
 header h1{
     display: inline-block;
-    font-size: 60px;
+    font-size: 50px;
     vertical-align: middle;
     margin-top: 15px;
 }
 
 .centro{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 1300px;
     height: 700px;
     margin: auto;
