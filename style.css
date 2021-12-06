@@ -84,30 +84,26 @@ header h1{
     color: lightgrey;
 }
 
-.check-mark{
+.mark{
+    width: 25px;
+    height: 25px;
+    line-height: 21px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+#check{
     border: 2px solid #90ee90;
-    width: 25px;
-    height: 25px;
-    line-height: 21px;
-    text-align: center;
-    display: inline-block;
-    border-radius: 50%;
     color: #90ee90;
-    margin-right: 5px;
 }
-  
-  .cross-mark{
-    border: 2px solid #dc143c;
-    width: 25px;
-    height: 25px;
-    line-height: 21px;
-    text-align: center;
-    display: inline-block;
-    border-radius: 50%;
-    color: #dc143c;
-    margin-right: 5px;
+
+#cross{
+      border: 2px solid #dc143c;
+      color: #dc143c;
 }
-  
+
  button{
    color: white;
    border-radius: 20px;
@@ -117,26 +113,26 @@ header h1{
    border: none;
 }
 
-#editorial{
+.editorial{
     background-color: #1e90ff;
 }
 
-#q1-goals{
+.q1-goals{
     background-color: #9932cc;
 }
 
-#recruiting{
+.recruiting{
     background-color: #3cb371;
 }
 
-#mobile{
+.mobile{
     background-color: #ffa500;
 }
 
-#website{
+.website{
     background-color: #dc143c;
 }
 
-#sales{
+.sales{
     background-color: #bdb76b;
 }
