@@ -18,16 +18,20 @@ hr{
 
 section{
     margin-top: 35px;
-    margin-left: 40px;
 }
 
 section p{
-    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+section h2{
+    margin-bottom: 8px;
 }
 
 main{
     display: inline-block;
     width: 100%;
+    margin-left: 40px;
 }
 /* ------------------------- */
 
@@ -63,7 +67,6 @@ header h1{
 
 .button{
     margin-top: 20px;
-    margin-left: 40px;
 }
 
 .button button{
