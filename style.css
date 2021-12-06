@@ -7,12 +7,13 @@
 }
 
 body{
-    background-color: lightgrey;
+    background-color: #dcdcdc;
+    ;
 }
 
 hr{
     margin-top: 12px;
-    border-color: lightgrey;
+    border-color: #dcdcdc;
 }
 
 section{
