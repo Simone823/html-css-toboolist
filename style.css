@@ -11,21 +11,26 @@ body{
 
 hr{
     margin-top: 12px;
+    border-color: lightgrey
 }
 /* ------------------------- */
 
 header{
-    background-color: aqua;
+    background-color: white;
 }
 
 header img{
     width: 80px;
     height: 80px;
-    margin: 20px 20px;
+    margin: 20px 30px;
+    vertical-align: middle;
+    
 }
 
 header h1{
     display: inline-block;
+    font-size: 60px;
+    vertical-align: middle;
 }
 
 .centro{
