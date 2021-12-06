@@ -28,9 +28,7 @@ section h2{
     margin-bottom: 8px;
 }
 
-main{
-    display: inline-block;
-    width: 100%;
+section, .buttons{
     margin-left: 40px;
 }
 /* ------------------------- */
