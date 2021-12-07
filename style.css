@@ -88,19 +88,19 @@ header h1{
 .mark{
     width: 25px;
     height: 25px;
-    line-height: 21px;
+    line-height: 22px;
     text-align: center;
     display: inline-block;
     border-radius: 50%;
     margin-right: 5px;
 }
 
-#check{
+.check{
     border: 2px solid #90ee90;
     color: #90ee90;
 }
 
-#cross{
+.cross{
       border: 2px solid #dc143c;
       color: #dc143c;
 }
